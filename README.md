@@ -2,7 +2,6 @@
 维基媒体nginx反向代理
 
 demo
-
 [wikim.tk](http://wikim.tk)
 
 nginx编译参数
