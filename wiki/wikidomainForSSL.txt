@@ -1,0 +1,31 @@
+https://github.com/acmesh-official/acme.sh/wiki/说明
+
+acme.sh --issue --dns \
+acme.sh --renew \
+-d "wikim.tk" \
+-d "*.wikim.tk" \
+-d "*.wikipedia.wikim.tk" \
+-d "*.wiktionary.wikim.tk" \
+-d "*.wikiquote.wikim.tk" \
+-d "*.wikinews.wikim.tk" \
+-d "*.wikisource.wikim.tk" \
+-d "*.wikibooks.wikim.tk" \
+-d "*.wikiversity.wikim.tk" \
+-d "*.wikivoyage.wikim.tk" \
+-d "*.wikidata.wikim.tk" \
+-d "*.wikimedia.wikim.tk" \
+-d "*.mediawiki.wikim.tk" \
+-d "*.m.wikipedia.wikim.tk" \
+-d "*.m.wiktionary.wikim.tk" \
+-d "*.m.wikiquote.wikim.tk" \
+-d "*.m.wikinews.wikim.tk" \
+-d "*.m.wikisource.wikim.tk" \
+-d "*.m.wikibooks.wikim.tk" \
+-d "*.m.wikiversity.wikim.tk" \
+-d "*.m.wikivoyage.wikim.tk" \
+-d "*.m.wikidata.wikim.tk" \
+-d "*.m.wikimedia.wikim.tk" \
+-d "*.m.mediawiki.wikim.tk" \
+--yes-I-know-dns-manual-mode-enough-go-ahead-please
+
+(wikipedia)(wiktionary)(wikiquote)(wikinews)(wikisource)(wikibooks)(wikiversity)(wikivoyage)(wikidata)(wikimedia)(mediawiki)
