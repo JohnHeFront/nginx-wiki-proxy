@@ -1,6 +1,8 @@
 # nginx-wiki-proxy
 维基媒体nginx反向代理
 
+[demo](http://wikim.tk)
+
 nginx编译参数
 （需要`ngx_http_substitutions_filter_module`模块）
 ```
